@@ -31,10 +31,6 @@ flow:
 
 Terrakube supports having the template logic in an external git repository like the following:
 
-{% hint style="info" %}
-This feature is only available from Terrakube 2.11.0
-{% endhint %}
-
 ```yaml
 flow:
   - type: "terraformPlan"

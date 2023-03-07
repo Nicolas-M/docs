@@ -22,7 +22,6 @@
     * [PostgreSQL](getting-started/deployment/database-backend/postgresql.md)
     * [MySQL](getting-started/deployment/database-backend/mysql.md)
     * [H2](getting-started/deployment/database-backend/h2.md)
-  * [⚙ Custom Terraform CLI Builds](getting-started/deployment/custom-terraform-cli-builds.md)
 * [🤵 User Management](getting-started/deployment/kubernetes/README.md)
   * [Azure Active Directory](getting-started/deployment/kubernetes/azure-kubernetes-service.md)
   * [Google Cloud Identity](getting-started/deployment/kubernetes/google-kubernetes-engine-gke.md)
